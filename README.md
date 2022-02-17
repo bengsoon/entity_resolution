@@ -22,4 +22,3 @@ Additional information and study on Record Similarity algorithm, especially **Af
 ## Revision of Classification Metrics
 - Precision and Recall
 - F-score
-- 
